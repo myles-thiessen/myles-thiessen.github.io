@@ -12,7 +12,7 @@ profile:
 #  more_info: >
 #    <p>mthiessen [at] cs [dot] toronto [dot] edu</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,12 +27,3 @@ latest_posts:
 ---
 
 I am a PhD student in the Department of Computer Science at the University of Toronto, advised by Professor Eyal de Lara and Professor Sam Toueg. My research interests are in the theory and practice of distributed computing.
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
-
