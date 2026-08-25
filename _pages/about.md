@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the Department of Computer Science at the University of Toronto. I have the pleasure of being advised by Professors Eyal de Lara and Sam Toueg. Broadly speaking, my research interests are in the theory and practice of distributed computing. My recent research has focused on efficient linearizable object implementations in shared-memory and message-passing systems in various senses of the word efficient.
+I am a PhD student in the Department of Computer Science at the University of Toronto. I have the pleasure of being advised by Professors Eyal de Lara and Sam Toueg. Broadly speaking, my research interests are in the theory and practice of distributed computing. My recent research has focused on efficient linearizable object implementations in shared-memory and message-passing systems.
